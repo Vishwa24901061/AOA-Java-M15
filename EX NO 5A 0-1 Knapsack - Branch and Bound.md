@@ -1,6 +1,6 @@
 
 # EX 5A 0/1 Knapsack Problem - Branch&Bound 
-## DATE: 08.09.2026
+## DATE: 16/09/2026
 ## AIM:
 To Write a Java program to solve 0/1 Knapsack problem using Branch and Bound Approach.
 You are heading a college entrepreneurship cell that can invest in up to N student‑startups.
@@ -46,8 +46,9 @@ For example:
 ```
 /*
 Program to implement Reverse a String
-Developed by: EZHIL NEVEDHA K
-Register Number:  212223230055
+Developed by: Vishwa V
+Register Number:  212224110062
+
 */
 import java.util.*;
 
